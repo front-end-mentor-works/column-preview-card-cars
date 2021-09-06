@@ -1,0 +1,59 @@
+h3,
+p {
+  color: white;
+}
+
+.row {
+  padding: 50px auto;
+  margin: 100px 250px 100px 250px;
+}
+
+.col-sm-4 {
+  padding: 20px 20px;
+  height: 400px;
+}
+
+#leftend {
+  border-bottom-left-radius: 15px;
+  border-top-left-radius: 15px;
+}
+#rightend {
+  border-bottom-right-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+button {
+  width: 100px;
+  font-size: 12px;
+  height: 30px;
+  border: 0px;
+  border-radius: 20px;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+#rightend button {
+  margin-top: 30px;
+}
+@media only screen and (max-width: 600px) {
+  .row {
+    margin: 10px 2px;
+  }
+  .col-sm-4 {
+    height: 300px;
+  }
+  #leftend {
+    border-radius: 10px 10px 0 0;
+  }
+  #rightend {
+    border-radius: 0 0 10px 10px;
+  }
+}
