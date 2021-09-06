@@ -5,12 +5,12 @@ p {
 
 .row {
   padding: 50px auto;
-  margin: 100px 250px 100px 250px;
+  margin: 100px 350px 100px 350px;
 }
 
 .col-sm-4 {
   padding: 20px 20px;
-  height: 400px;
+  height: 500px;
 }
 
 #leftend {
@@ -41,7 +41,7 @@ button {
   margin-bottom: 50px;
 }
 #rightend button {
-  margin-top: 30px;
+  margin-top: 44px;
 }
 @media only screen and (max-width: 600px) {
   .row {
