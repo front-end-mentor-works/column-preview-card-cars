@@ -1,4 +1,5 @@
-#Solution Url: https://front-end-mentor-works.github.io/column-preview-card-cars/
+# The page is live at
+https://front-end-mentor-works.github.io/column-preview-card-cars/
 # Frontend Mentor - 3-column preview card component
 
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
